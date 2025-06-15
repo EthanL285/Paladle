@@ -9,8 +9,6 @@ function GuessBox({ guesses, correctChampion }) {
     const isCorrect = (guessAttr, correctAttr) => guessAttr === correctAttr;
     const isHigher = (guessAttr, correctAttr) => guessAttr > correctAttr;
 
-    console.log(correctChampion);
-
     return (
         <div className="guess-box">
             {/* headers */}
