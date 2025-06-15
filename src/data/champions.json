@@ -1,0 +1,533 @@
+[
+    {
+        "name": "Ash",
+        "role": "Front Line",
+        "affiliation": "Magistrate",
+        "movementAbility": "Charge",
+        "health": 4500,
+        "releaseVersion": 0.51,
+        "image": "/champions/ash.png"
+    },
+    {
+        "name": "Atlas",
+        "role": "Front Line",
+        "affiliation": "Neutral",
+        "movementAbility": "Teleport",
+        "health": 4000,
+        "releaseVersion": 2.3,
+        "image": "/champions/atlas.png"
+    },
+    {
+        "name": "Azaan",
+        "role": "Front Line",
+        "affiliation": "The Eternal Pyre",
+        "movementAbility": "Charge",
+        "health": 4500,
+        "releaseVersion": 4.7,
+        "image": "/champions/azaan.png"
+    },
+    {
+        "name": "Barik",
+        "role": "Front Line",
+        "affiliation": "New Paladins",
+        "movementAbility": "Dash",
+        "health": 3400,
+        "releaseVersion": 0.05,
+        "image": "/champions/barik.png"
+    },
+    {
+        "name": "Fernando",
+        "role": "Front Line",
+        "affiliation": "New Magistrate",
+        "movementAbility": "Charge",
+        "health": 4600,
+        "releaseVersion": 0.05,
+        "image": "/champions/fernando.png"
+    },
+        {
+        "name": "Inara",
+        "role": "Front Line",
+        "affiliation": "New Paladins",
+        "movementAbility": "None",
+        "health": 4700,
+        "releaseVersion": 0.45,
+        "image": "/champions/inara.png"
+    },
+    {
+        "name": "Khan",
+        "role": "Front Line",
+        "affiliation": "New Magistrate",
+        "movementAbility": "Charge",
+        "health": 4000,
+        "releaseVersion": 0.69,
+        "image": "/champions/khan.png"
+    },
+    {
+        "name": "Makoa",
+        "role": "Front Line",
+        "affiliation": "Resistance",
+        "movementAbility": "Dash",
+        "health": 4500,
+        "releaseVersion": 0.30,
+        "image": "/champions/makoa.png"
+    },
+    {
+        "name": "Nyx",
+        "role": "Front Line",
+        "affiliation": "The Abyss",
+        "movementAbility": "None",
+        "health": 4700,
+        "releaseVersion": 6.1,
+        "image": "/champions/nyx.png"
+    },
+    {
+        "name": "Raum",
+        "role": "Front Line",
+        "affiliation": "The Abyss",
+        "movementAbility": "Charge",
+        "health": 4500,
+        "releaseVersion": 2.8,
+        "image": "/champions/raum.png"
+    },
+    {
+        "name": "Ruckus",
+        "role": "Front Line",
+        "affiliation": "Neutral",
+        "movementAbility": "Dash",
+        "health": 4000,
+        "releaseVersion": 0.05,
+        "image": "/champions/ruckus.png"
+    },
+    {
+        "name": "Terminus",
+        "role": "Front Line",
+        "affiliation": "Magistrate",
+        "movementAbility": "Leap",
+        "health": 4000,
+        "releaseVersion": 0.61,
+        "image": "/champions/terminus.png"
+    },
+    {
+        "name": "Torvald",
+        "role": "Front Line",
+        "affiliation": "Magistrate",
+        "movementAbility": "None",
+        "health": 3000,
+        "releaseVersion": 0.42,
+        "image": "/champions/torvald.png"
+    },
+    {
+        "name": "Yagorath",
+        "role": "Front Line",
+        "affiliation": "Darkness",
+        "movementAbility": "Boost",
+        "health": 5750,
+        "releaseVersion": 4.2,
+        "image": "/champions/yagorath.png"
+    },
+    {
+        "name": "Betty La Bomba",
+        "role": "Damage",
+        "affiliation": "Neutral",
+        "movementAbility": "Leap",
+        "health": 2200,
+        "releaseVersion": 5.2,
+        "image": "/champions/betty_la_bomba.png"
+    },
+    {
+        "name": "Bomb King",
+        "role": "Damage",
+        "affiliation": "Neutral",
+        "movementAbility": "Flight",
+        "health": 2200,
+        "releaseVersion": 0.27,
+        "image": "/champions/bomb_king.png"
+    },
+    {
+        "name": "Cassie",
+        "role": "Damage",
+        "affiliation": "New Paladins",
+        "movementAbility": "Dash",
+        "health": 2200,
+        "releaseVersion": 0.05,
+        "image": "/champions/cassie.png"
+    },
+    {
+        "name": "Dredge",
+        "role": "Damage",
+        "affiliation": "The Abyss",
+        "movementAbility": "Teleport",
+        "health": 2200,
+        "releaseVersion": 1.6,
+        "image": "/champions/dredge.png"
+    },
+    {
+        "name": "Drogoz",
+        "role": "Damage",
+        "affiliation": "Neutral",
+        "movementAbility": "Flight",
+        "health": 2200,
+        "releaseVersion": 0.23,
+        "image": "/champions/drogoz.png"
+    },
+    {
+        "name": "Imani",
+        "role": "Damage",
+        "affiliation": "Neutral",
+        "movementAbility": "Flight",
+        "health": 2200,
+        "releaseVersion": 2.1,
+        "image": "/champions/imani.png"
+    },
+    {
+        "name": "Kinessa",
+        "role": "Damage",
+        "affiliation": "New Magistrate",
+        "movementAbility": "Teleport",
+        "health": 2100,
+        "releaseVersion": 0.17,
+        "image": "/champions/kinessa.png"
+    },
+    {
+        "name": "Lian",
+        "role": "Damage",
+        "affiliation": "New Magistrate",
+        "movementAbility": "Dash",
+        "health": 2100,
+        "releaseVersion": 0.54,
+        "image": "/champions/lian.png"
+    },
+    {
+        "name": "Octavia",
+        "role": "Damage",
+        "affiliation": "Magistrate",
+        "movementAbility": "Leap",
+        "health": 2200,
+        "releaseVersion": 4.3,
+        "image": "/champions/octavia.png"
+    },
+    {
+        "name": "Omen",
+        "role": "Damage",
+        "affiliation": "The Abyss",
+        "movementAbility": "Charge",
+        "health": 2200,
+        "releaseVersion": 6.5,
+        "image": "/champions/omen.png"
+    },
+    {
+        "name": "Saati",
+        "role": "Damage",
+        "affiliation": "Neutral",
+        "movementAbility": "Leap",
+        "health": 2100,
+        "releaseVersion": 4.6,
+        "image": "/champions/saati.png"
+    },
+    {
+        "name": "Sha Lin",
+        "role": "Damage",
+        "affiliation": "Resistance",
+        "movementAbility": "Dash",
+        "health": 2150,
+        "releaseVersion": 0.37,
+        "image": "/champions/sha_lin.png"
+    },
+    {
+        "name": "Strix",
+        "role": "Damage",
+        "affiliation": "New Paladins",
+        "movementAbility": "None",
+        "health": 2150,
+        "releaseVersion": 0.57,
+        "image": "/champions/strix.png"
+    },
+    {
+        "name": "Tiberius",
+        "role": "Damage",
+        "affiliation": "Neutral",
+        "movementAbility": "Leap",
+        "health": 2200,
+        "releaseVersion": 3.1,
+        "image": "/champions/tiberius.png"
+    },
+    {
+        "name": "Tyra",
+        "role": "Damage",
+        "affiliation": "New Paladins",
+        "movementAbility": "None",
+        "health": 2400,
+        "releaseVersion": 0.4,
+        "image": "/champions/tyra.png"
+    },
+    {
+        "name": "Viktor",
+        "role": "Damage",
+        "affiliation": "Magistrate",
+        "movementAbility": "Boost",
+        "health": 2200,
+        "releaseVersion": 0.28,
+        "image": "/champions/viktor.png"
+    },
+    {
+        "name": "Vivian",
+        "role": "Damage",
+        "affiliation": "New Magistrate",
+        "movementAbility": "None",
+        "health": 2200,
+        "releaseVersion": 0.63,
+        "image": "/champions/vivian.png"
+    },
+    {
+        "name": "Willow",
+        "role": "Damage",
+        "affiliation": "Neutral",
+        "movementAbility": "Flight",
+        "health": 2200,
+        "releaseVersion": 0.49,
+        "image": "/champions/willow.png"
+    },
+    {
+        "name": "Corvus",
+        "role": "Support",
+        "affiliation": "New Magistrate",
+        "movementAbility": "Teleport",
+        "health": 2200,
+        "releaseVersion": 3.3,
+        "image": "/champions/corvus.png"
+    },
+    {
+        "name": "Furia",
+        "role": "Support",
+        "affiliation": "New Paladins",
+        "movementAbility": "Dash",
+        "health": 2200,
+        "releaseVersion": 1.1,
+        "image": "/champions/furia.png"
+    },
+    {
+        "name": "Grohk",
+        "role": "Support",
+        "affiliation": "Neutral",
+        "movementAbility": "None",
+        "health": 2200,
+        "releaseVersion": 0.05,
+        "image": "/champions/grohk.png"
+    },
+    {
+        "name": "Grover",
+        "role": "Support",
+        "affiliation": "New Paladins",
+        "movementAbility": "Flight",
+        "health": 2300,
+        "releaseVersion": 0.14,
+        "image": "/champions/grover.png"
+    },
+    {
+        "name": "IO",
+        "role": "Support",
+        "affiliation": "Neutral",
+        "movementAbility": "Leap",
+        "health": 2200,
+        "releaseVersion": 2.6,
+        "image": "/champions/io.png"
+    },
+    {
+        "name": "Jenos",
+        "role": "Support",
+        "affiliation": "Neutral",
+        "movementAbility": "Boost",
+        "health": 2200,
+        "releaseVersion": 0.55,
+        "image": "/champions/jenos.png"
+    },
+    {
+        "name": "Lillith",
+        "role": "Support",
+        "affiliation": "The Abyss",
+        "movementAbility": "Leap",
+        "health": 2600,
+        "releaseVersion": 5.3,
+        "image": "/champions/lillith.png"
+    },
+    {
+        "name": "Mal'Damba",
+        "role": "Support",
+        "affiliation": "Neutral",
+        "movementAbility": "Dash",
+        "health": 2300,
+        "releaseVersion": 0.35,
+        "image": "/champions/mal_damba.png"
+    },
+    {
+        "name": "Moji",
+        "role": "Support",
+        "affiliation": "Neutral",
+        "movementAbility": "Dash",
+        "health": 2400,
+        "releaseVersion": 0.65,
+        "image": "/champions/moji.png"
+    },
+    {
+        "name": "Pip",
+        "role": "Support",
+        "affiliation": "New Paladins",
+        "movementAbility": "Leap",
+        "health": 2200,
+        "releaseVersion": 0.05,
+        "image": "/champions/pip.png"
+    },
+    {
+        "name": "Rei",
+        "role": "Support",
+        "affiliation": "New Magistrate",
+        "movementAbility": "Boost",
+        "health": 2200,
+        "releaseVersion": 1.1,
+        "image": "/champions/rei.png"
+    },
+    {
+        "name": "Seris",
+        "role": "Support",
+        "affiliation": "The Abyss",
+        "movementAbility": "Boost",
+        "health": 2200,
+        "releaseVersion": 0.48,
+        "image": "/champions/seris.png"
+    },
+    {
+        "name": "Ying",
+        "role": "Support",
+        "affiliation": "New Resistance",
+        "movementAbility": "Teleport",
+        "health": 2200,
+        "releaseVersion": 0.2,
+        "image": "/champions/ying.png"
+    },
+    {
+        "name": "Androxus",
+        "role": "Flank",
+        "affiliation": "Neutral",
+        "movementAbility": "Dash",
+        "health": 2100,
+        "releaseVersion": 0.18,
+        "image": "/champions/androxus.png"
+    },
+    {
+        "name": "Buck",
+        "role": "Flank",
+        "affiliation": "New Resistance",
+        "movementAbility": "Leap",
+        "health": 2300,
+        "releaseVersion": 0.05,
+        "image": "/champions/buck.png"
+    },
+    {
+        "name": "Caspian",
+        "role": "Flank",
+        "affiliation": "Neutral",
+        "movementAbility": "Charge",
+        "health": 2100,
+        "releaseVersion": 5.5,
+        "image": "/champions/caspian.png"
+    },
+    {
+        "name": "Evie",
+        "role": "Flank",
+        "affiliation": "Resistance",
+        "movementAbility": "Teleport",
+        "health": 1800,
+        "releaseVersion": 0.08,
+        "image": "/champions/evie.png"
+    },
+    {
+        "name": "Kasumi",
+        "role": "Flank",
+        "affiliation": "Neutral",
+        "movementAbility": "Teleport",
+        "health": 2200,
+        "releaseVersion": 5.6,
+        "image": "/champions/kasumi.png"
+    },
+    {
+        "name": "Koga",
+        "role": "Flank",
+        "affiliation": "New Resistance",
+        "movementAbility": "Dash",
+        "health": 2000,
+        "releaseVersion": 1.3,
+        "image": "/champions/koga.png"
+    },
+    {
+        "name": "Lex",
+        "role": "Flank",
+        "affiliation": "Magistrate",
+        "movementAbility": "Dash",
+        "health": 2200,
+        "releaseVersion": 0.46,
+        "image": "/champions/lex.png"
+    },
+    {
+        "name": "Maeve",
+        "role": "Flank",
+        "affiliation": "Neutral",
+        "movementAbility": "Charge",
+        "health": 1900,
+        "releaseVersion": 0.43,
+        "image": "/champions/maeve.png"
+    },
+    {
+        "name": "Skye",
+        "role": "Flank",
+        "affiliation": "Neutral",
+        "movementAbility": "None",
+        "health": 2000,
+        "releaseVersion": 0.05,
+        "image": "/champions/skye.png"
+    },
+    {
+        "name": "Talus",
+        "role": "Flank",
+        "affiliation": "New Resistance",
+        "movementAbility": "Teleport",
+        "health": 1900,
+        "releaseVersion": 0.59,
+        "image": "/champions/talus.png"
+    },
+    {
+        "name": "VII",
+        "role": "Flank",
+        "affiliation": "Magistrate",
+        "movementAbility": "Flight",
+        "health": 1900,
+        "releaseVersion": 5.1,
+        "image": "/champions/vii.png"
+    },
+    {
+        "name": "Vatu",
+        "role": "Flank",
+        "affiliation": "New Resistance",
+        "movementAbility": "Dash",
+        "health": 1900,
+        "releaseVersion": 4.4,
+        "image": "/champions/vatu.png"
+    },
+    {
+        "name": "Vora",
+        "role": "Flank",
+        "affiliation": "Darkness",
+        "movementAbility": "Flight",
+        "health": 2000,
+        "releaseVersion": 3.5,
+        "image": "/champions/vora.png"
+    },
+    {
+        "name": "Zhin",
+        "role": "Flank",
+        "affiliation": "New Resistance",
+        "movementAbility": "Charge",
+        "health": 2000,
+        "releaseVersion": 0.52,
+        "image": "/champions/zhin.png"
+    }
+]
