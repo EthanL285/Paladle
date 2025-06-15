@@ -33,7 +33,7 @@
 
 .dropdown-content {
     position: absolute;
-    top: 100%;
+    top: calc(100% - 24px);
     left: 0;
     width: 100%;
     border: 1px solid #646464;
